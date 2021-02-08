@@ -1,9 +1,9 @@
-# ReactStyleguidist
-Sample of a React Styleguidist implementation
+# React Styleguidist
+Sample of a React Styleguidist implementation is key to a good design system
 
 There are 2 options to start this: 
-# Basic Stypeguidist example with just the components
-# Create React App Styleguidist example to incorporate all into a React app
+* Basic Stypeguidist example with just the components
+* Create React App Styleguidist example to incorporate all into a React app
 
 Choose either of the above and stick to it !
 
