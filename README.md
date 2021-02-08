@@ -25,4 +25,4 @@ npx styleguidist server
 npx styleguidist build
 ```
 
-Many thanks to [Reach Styleguidist](https://react-styleguidist.js.org/)
+Many thanks to [React Styleguidist](https://react-styleguidist.js.org/)
